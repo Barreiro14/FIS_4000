@@ -18,7 +18,7 @@ def xyValues(n):
         #print("ty es: ", )
         i = i + 1
 
-    print(xy)
+    return xy
 
 '''
 Test area
